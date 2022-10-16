@@ -1,0 +1,58 @@
+{
+  "cars": [
+    {
+      "id": 19227,
+      "model": "Citroen",
+      "price": 18787,
+      "year": 2022
+    },
+    {
+      "id": 19230,
+      "model": "zazaasd",
+      "price": 12123,
+      "year": 2012
+    },
+    {
+      "id": 19231,
+      "model": "Toyota",
+      "price": 200000,
+      "year": 2012
+    },
+    {
+      "id": 19233,
+      "model": "BMW",
+      "price": 123,
+      "year": 1990
+    },
+    {
+      "id": 19234,
+      "model": "AUDI",
+      "price": 29999,
+      "year": 2010
+    },
+    {
+      "id": 19235,
+      "model": "BMW",
+      "price": 0,
+      "year": 1990
+    },
+    {
+      "id": 19236,
+      "model": "BMW",
+      "price": 9,
+      "year": 1990
+    },
+    {
+      "id": 19237,
+      "model": "BMW",
+      "price": 0,
+      "year": 1990
+    },
+    {
+      "id": 19238,
+      "model": "audi",
+      "price": 15000,
+      "year": 2015
+    }
+  ]
+}

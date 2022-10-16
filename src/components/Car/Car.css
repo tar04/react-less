@@ -1,0 +1,17 @@
+.car {
+    margin: 10px;
+    padding: 10px;
+    border:1px solid blueviolet;
+    width: 250px;
+}
+
+.car_button{
+    display: flex;
+    justify-content: center;
+    column-gap: 25px;
+    margin-top: 10px;
+}
+
+.car_button>button{
+    padding: 4px;
+}

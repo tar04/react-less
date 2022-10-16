@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 19233,
+      "model": "BMW",
+      "price": 123,
+      "year": 1990
+    },
+    {
+      "model": "BMW",
+      "year": 123,
+      "price": 159,
+      "id": 19234
+    },
+    {
+      "model": "Porsche",
+      "year": 2017,
+      "price": 1591,
+      "id": 19235
+    },
+    {
+      "model": "BMW",
+      "year": 2001,
+      "price": 159,
+      "id": 19236
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: baseline;
+    margin: 15px;
+}
+
+form > div>label {
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+}
+
+form > button {
+    padding: 4px;
+}
