@@ -5,6 +5,8 @@ import {Car} from "../Car/Car";
 
 const Cars = ({carToAdd, setCarForUpdate, carForUpdate}) => {
 
+    console.log(window)
+
     const [cars, setCars] = useState([]);
 
     const [carIdToDelete, setCarIdToDelete] = useState(null);
