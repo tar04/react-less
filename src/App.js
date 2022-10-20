@@ -6,6 +6,7 @@ import {PostsPage, UsersPage} from "./pages";
 
 
 const App = () => {
+
     return (
         <div>
             <Navigation/>
